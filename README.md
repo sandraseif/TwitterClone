@@ -1,2 +1,2 @@
-# TwitterColone
+# TwitterClone
 Twitter simulation for twitter features
